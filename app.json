@@ -35,7 +35,7 @@
     },
     "PM_PERMIT": {
       "description": "Restrict the bot's use in private messages. Type 'on' to allow or 'no' to block usage in private messages.",
-      "value": "off",
+      "value": "on",
       "required": false
     },
     "AUTO_REACTION": {
